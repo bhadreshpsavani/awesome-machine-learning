@@ -11,6 +11,8 @@
 | --- | --- | --- |
 | Without Regularization | L2 | L1 |
 
+Alpha is regularization parameter in Regression, **Large value of alpha means simpler model**
+
 ## Classification:
 
 * Precision(P): True Positive / Predicted Positive 
@@ -21,3 +23,5 @@
 | --- | --- | 
 | Supports All types of Classification | Binary |
 | Has L1/L2 Regularization | |
+
+C is regularization parameter in Classification, **smalller value of C means simpler model**
