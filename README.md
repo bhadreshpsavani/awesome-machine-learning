@@ -30,4 +30,4 @@ C is regularization parameter in Classification, **smalller value of C means sim
 ## Ensamble Model
 
 * [ensemble-learning-bagging-boosting-stacking](https://www.kaggle.com/code/satishgunjal/ensemble-learning-bagging-boosting-stacking/notebook)
-* [/ensemble-methods-machine-learning](https://www.toptal.com/machine-learning/ensemble-methods-machine-learning#:~:text=Ensemble%20methods%20are%20techniques%20that,winning%20solutions%20used%20ensemble%20methods.)
+* [ensemble-methods-machine-learning](https://www.toptal.com/machine-learning/ensemble-methods-machine-learning#:~:text=Ensemble%20methods%20are%20techniques%20that,winning%20solutions%20used%20ensemble%20methods.)
