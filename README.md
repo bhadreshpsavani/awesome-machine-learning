@@ -26,3 +26,8 @@ Alpha is regularization parameter in Regression, **Large value of alpha means si
 | Has L1/L2 Regularization | | | consider count of each feature| average | average as well as standard deviation |
 
 C is regularization parameter in Classification, **smalller value of C means simpler model**
+
+## Ensamble Model
+
+* [ensemble-learning-bagging-boosting-stacking](https://www.kaggle.com/code/satishgunjal/ensemble-learning-bagging-boosting-stacking/notebook)
+* [/ensemble-methods-machine-learning](https://www.toptal.com/machine-learning/ensemble-methods-machine-learning#:~:text=Ensemble%20methods%20are%20techniques%20that,winning%20solutions%20used%20ensemble%20methods.)
